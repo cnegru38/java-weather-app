@@ -1,0 +1,122 @@
+[
+  {
+    "location": "Bucuresti",
+    "latitude": 44.4266,
+    "longitude": 26.1025,
+    "currentWeather": "Soare",
+    "currentTemperature": 12,
+    "forecast": [
+      {"day": "Maine", "weather": "Ploaie", "temperature": 10},
+      {"day": "Poimaine", "weather": "Innorat", "temperature": 11}
+    ]
+  },
+
+  {
+    "location": "Brasov",
+    "latitude": 45.3900,
+    "longitude": 25.3600,
+    "currentWeather": "Innorat",
+    "currentTemperature": 9,
+    "forecast": [
+      {"day": "Maine", "weather": "Innorat", "temperature": 10},
+      {"day": "Poimaine", "weather": "Ploaie", "temperature": 7}
+    ]
+  },
+
+  {
+    "location": "Constanta",
+    "latitude": 44.1024,
+    "longitude": 28.3818,
+    "currentWeather": "Soare",
+    "currentTemperature": 10,
+    "forecast": [
+      {"day": "Maine", "weather": "Innorat", "temperature": 10},
+      {"day": "Poimaine", "weather": "Innorat", "temperature": 11}
+    ]
+  },
+
+  {
+    "location": "Oradea",
+    "latitude": 47.4200,
+    "longitude": 21.5516,
+    "currentWeather": "Vant",
+    "currentTemperature": 7,
+    "forecast": [
+      {"day": "Maine", "weather": "Innorat", "temperature": 8},
+      {"day": "Poimaine", "weather": "Innorat", "temperature": 9}
+    ]
+  },
+
+  {
+    "location": "Alexandria",
+    "latitude": 43.5800,
+    "longitude": 25.2000,
+    "currentWeather": "Soare",
+    "currentTemperature": 13,
+    "forecast": [
+      {"day": "Maine", "weather": "Soare", "temperature": 12},
+      {"day": "Poimaine", "weather": "Innorat", "temperature": 11}
+    ]
+  },
+
+  {
+    "location": "Braila",
+    "latitude": 45.1690,
+    "longitude": 27.5727,
+    "currentWeather": "Soare",
+    "currentTemperature": 10,
+    "forecast": [
+      {"day": "Maine", "weather": "Innorat", "temperature": 10},
+      {"day": "Poimaine", "weather": "Innorat", "temperature": 11}
+    ]
+  },
+
+  {
+    "location": "Vaslui",
+    "latitude": 46.3818,
+    "longitude": 27.4345,
+    "currentWeather": "Innorat",
+    "currentTemperature": 12,
+    "forecast": [
+      {"day": "Maine", "weather": "Innorat", "temperature": 12},
+      {"day": "Poimaine", "weather": "Ploaie", "temperature": 8}
+    ]
+  },
+
+  {
+    "location": "Cluj",
+    "latitude": 46.4600,
+    "longitude": 23.3500,
+    "currentWeather": "Vant",
+    "currentTemperature": 7,
+    "forecast": [
+      {"day": "Maine", "weather": "Innorat", "temperature": 9},
+      {"day": "Poimaine", "weather": "Soare", "temperature": 9}
+    ]
+  },
+
+  {
+    "location": "Craiova",
+    "latitude": 44.2000,
+    "longitude": 23.4900,
+    "currentWeather": "Soare",
+    "currentTemperature": 12,
+    "forecast": [
+      {"day": "Maine", "weather": "Soare", "temperature": 11},
+      {"day": "Poimaine", "weather": "Soare", "temperature": 14}
+    ]
+  },
+
+  {
+    "location": "Iasi",
+    "latitude": 47.9440,
+    "longitude": 27.3520,
+    "currentWeather": "Innorat",
+    "currentTemperature": 8,
+    "forecast": [
+      {"day": "Maine", "weather": "Soare", "temperature": 9},
+      {"day": "Poimaine", "weather": "Ploaie", "temperature": 6}
+    ]
+  }
+]
+
